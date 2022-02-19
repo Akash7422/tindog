@@ -22,14 +22,12 @@ p{
 #title{
   background-color: #ff4c68;
   color: #fff;
-  height: 600px;
-  overflow: hidden;
+  
 
 }
 .container-fluid{
   padding: 3% 15% 0% 15%;
-  
-
+  overflow: hidden;
 }
 .mid
 {
